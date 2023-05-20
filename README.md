@@ -1,3 +1,3 @@
 # ITMO2022
 
-Development on c#
+Development on c#, Java, Python, C++, etc.
